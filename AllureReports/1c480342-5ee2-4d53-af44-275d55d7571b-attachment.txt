@@ -1,0 +1,9 @@
+[32mINFO    [0m Test_Login:test_UserLogin.py:24 Testcases test_login_002 is started
+[32mINFO    [0m Test_Login:test_UserLogin.py:26 Invoking browser
+[32mINFO    [0m Test_Login:test_UserLogin.py:27 Opening Url
+[32mINFO    [0m Test_Login:test_UserLogin.py:30 Clicking on login link
+[32mINFO    [0m Test_Login:test_UserLogin.py:32 Entering Email-->test@credence.in
+[32mINFO    [0m Test_Login:test_UserLogin.py:34 Entering password-->test@123
+[32mINFO    [0m Test_Login:test_UserLogin.py:36 Clicking on login button
+[32mINFO    [0m Test_Login:test_UserLogin.py:39 Testcases test_login_002 is passed
+[32mINFO    [0m Test_Login:test_UserLogin.py:50 Testcases test_login_002 is completed

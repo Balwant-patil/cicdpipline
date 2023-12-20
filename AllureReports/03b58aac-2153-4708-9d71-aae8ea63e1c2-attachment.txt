@@ -1,0 +1,10 @@
+[32mINFO    [0m Test_registration:test_UserRegisteration.py:16 Testcases test_registration_001 is started
+[32mINFO    [0m Test_registration:test_UserRegisteration.py:18 Invoking browser
+[32mINFO    [0m Test_registration:test_UserRegisteration.py:19 Opening Url
+[32mINFO    [0m Test_registration:test_UserRegisteration.py:22 Clicking on Register link
+[32mINFO    [0m Test_registration:test_UserRegisteration.py:24 Entering username
+[32mINFO    [0m Test_registration:test_UserRegisteration.py:26 Entering Email
+[32mINFO    [0m Test_registration:test_UserRegisteration.py:28 Entering Password
+[32mINFO    [0m Test_registration:test_UserRegisteration.py:30 Entering Confirm Password
+[32mINFO    [0m Test_registration:test_UserRegisteration.py:32 Clicking on Register
+[32mINFO    [0m Test_registration:test_UserRegisteration.py:40 Testcases test_registration_001 is failed

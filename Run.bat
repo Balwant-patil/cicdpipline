@@ -1,0 +1,1 @@
+pytest -v --html=Reports/Report.html -n=4 -p no:warnings
